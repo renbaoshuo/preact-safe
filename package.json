@@ -1,6 +1,6 @@
 {
   "name": "preact-safe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Safe JSX: syntactic sugar over dangerouslySetInnerHTML.",
   "main": "index.js",
   "repository": "https://github.com/renbaoshuo/preact-safe.git",
