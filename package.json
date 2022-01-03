@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/renbaoshuo/preact-safe.git",
   "author": "Baoshuo <i@baoshuo.ren>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "preact": "*"
+  },
+  "devDependencies": {
+    "preact": "*"
+  },
+  "dependencies": {
+    "html-tags": "^3.1.0"
+  }
 }
